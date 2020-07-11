@@ -11,3 +11,4 @@
 - [Facebook](https://www.facebook.com/tunepolo)
 - [LinkedIn](https://www.linkedin.com/in/tunepolo/)
 - [SpeakerDeck](https://speakerdeck.com/tunepolo)
+- [Blog](https://tune.hatenadiary.jp)
