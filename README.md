@@ -1,3 +1,5 @@
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tunepolo&show_icons=true&count_private=true)
+
 # Career
 
 - 2020-Now      Retty Inc
