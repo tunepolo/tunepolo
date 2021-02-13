@@ -4,7 +4,7 @@
 
 # Career
 
-- 2020-Now      Retty Inc
+- 2019/6-Now    Retty Inc
 - 2013/2-2019/5 Canon Inc
 - 2010/8-2013/1 Canon Electronic Business Machines (H.K.) Co., Ltd.
 - 2006/4-2010/7 Canon Inc
