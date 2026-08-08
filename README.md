@@ -4,7 +4,8 @@
 
 # Career
 
-- 2019/6-Now    Retty Inc
+- 2026/7-Now.   Money Forward Private Bank, Inc.
+- 2019/6-2026/6 Retty Inc
 - 2013/2-2019/5 Canon Inc
 - 2010/8-2013/1 Canon Electronic Business Machines (H.K.) Co., Ltd.
 - 2006/4-2010/7 Canon Inc
